@@ -20,6 +20,7 @@ environs==11.0.0
 django-taggit==5.0.1
 crispy-bootstrap5==2024.2
 django-crispy-forms==2.1
+django-ckeditor-5==0.2.14
 frozenlist==1.4.1
 gunicorn==21.2.0
 whitenoise==6.6.0
