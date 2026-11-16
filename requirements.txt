@@ -48,3 +48,8 @@ typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
 yarl==1.9.4
+Django>=4.2,<5.0
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
